@@ -1,2 +1,3 @@
-# Japanese GDP nowcast using MachneLearning and Baysian Ecometric Method
+# Japanese GDP nowcasting
+## using Machine Learning and Bayesian Ecometric Methods
 
